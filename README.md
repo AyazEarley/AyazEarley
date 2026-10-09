@@ -12,3 +12,10 @@ Youtube: https://www.youtube.com/@AyazEarley
 - **Audio/Notation:** MuseScore 4, FL Studio, Audacity
 - **Tools:** Git, CMake, Visual Studio
 
+### Projects at a Glance:
+
+Parsimonious - A new way to generate chord progressions using graph theory
+<img src="image2.png" width="600" alt="Screenshot">
+
+Tonnetz - A strategy game where players battle for control over the soundtrack
+<img src="image.png" width="600" alt="Screenshot">

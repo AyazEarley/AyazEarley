@@ -13,4 +13,4 @@ Youtube: [youtube.com/@AyazEarley](https://www.youtube.com/@AyazEarley)
 - **Tools:** Git, CMake, Visual Studio
 
 ### What I'm currently working on
-I'm composing 10 minutes of focus music, then using OpenGL and DSP to create a real time animation, meant to reflect the emotions of the music.
+Composing 10 minutes of focus music, then using OpenGL and DSP to create a real time animation, meant to reflect the emotions of the music. Most of my recent pieces have been heavily inspired by minimalists like Steve Reich or John Adams, and so for this one I've decided to embrace it. In the past, all of my music animations have been created using 2d Manim or a JS canvas. To step things up, I've decided to create a 3d animation using openGL, and program the animation using DSP instead using MIDI data like I usually do.

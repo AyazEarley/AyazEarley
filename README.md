@@ -1,10 +1,11 @@
 # Welcome
 
 ### About
-My name is Ayaz and I'm a first year masters student studying music tech at NYU. I play Euphonium, compose, and create tools for other musicians. My technical interests include software/plugin development, MIR, and signal processing. I'm classically trained, but my musical interests include Lo-fi, EDM, Jazz, and film/video game music. Feel free to reach out if you want to connect. :)
+My name is Ayaz and I'm a first year masters student studying music tech at NYU. I play Euphonium, compose, and create tools for other musicians. My technical interests include software/plugin development, MIR, and signal processing. I'm classically trained, but my musical interests include Lo-fi, EDM, Jazz, and film/video game music. Take a look at my pinned repos, I love making READMEs for them.
 
 Email: [ayazearley@gmail.com](mailto:ayazearley@gmail.com)  
 Youtube: [youtube.com/@AyazEarley](https://www.youtube.com/@AyazEarley)
+Feel free to reach out if you want to connect. :)
 
 ### Skills
 - **Languages:** C++, Python, Java, JavaScript, TypeScript

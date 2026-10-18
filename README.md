@@ -9,7 +9,7 @@ Youtube: [youtube.com/@AyazEarley](https://www.youtube.com/@AyazEarley)
 ### Skills
 - **Languages:** C++, Python, Java, JavaScript, TypeScript
 - **Frameworks/Libraries:** JUCE, PyTorch, React, Manim, NumPy, Librosa, PyGame
-- **Audio/Notation:** MuseScore 4, FL Studio, Audacity
+- **Audio/Notation:** MuseScore 4, FL Studio, Audacity, SuperCollider
 - **Tools:** Git, CMake, Visual Studio
 
 ### What I'm currently working on

@@ -18,7 +18,7 @@ Totally feel free to reach out if you want to connect :)
 Currently I'm making a command line WAV file analyzer in C. My goals for the project are:
 
 - Learn how to safely read and parse a .wav file, byte by byte
-- Implement basic DSP algorithms like peak amplitude and RMS
+- Implement basic DSP algorithms like peak amplitude, RMS and zero-crossing
 - Implement a naiveDFT
 - Implement an FFT
 - Implement an in place FFT

@@ -22,4 +22,4 @@ Currently I'm making a command line WAV file analyzer in C. My goals for the pro
 - Implement a naiveDFT
 - Implement an FFT
 - Implement an in place FFT
-- Hand code everything myself
+- Hand code everything myself, no libraries, no LLMs

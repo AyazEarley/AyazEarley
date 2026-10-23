@@ -9,7 +9,7 @@ Youtube: [youtube.com/@AyazEarley](https://www.youtube.com/@AyazEarley)
 Totally feel free to reach out if you want to connect :)
 
 ### Skills
-- **Languages:** C++, Python, C, Java, JavaScript, TypeScript
+- **Languages:** C++, C, Python, Java, JavaScript, TypeScript
 - **Frameworks/Libraries:** JUCE, PyTorch, React, Manim, NumPy, Librosa, PyGame
 - **Audio/Notation:** MuseScore 4, FL Studio, Audacity
 - **Tools:** Git, CMake, Visual Studio

@@ -15,11 +15,12 @@ Totally feel free to reach out if you want to connect :)
 - **Tools:** Git, CMake, Visual Studio
 
 ### What I'm currently working on
-Currently I'm making a command line WAV file analyzer in C. My goals for the project are:
 
-- Learn how to safely read and parse a .wav file, byte by byte
-- Implement basic DSP algorithms like peak amplitude, RMS and zero-crossing
-- Implement a naiveDFT
-- Implement an FFT
-- Implement an in place FFT
-- Hand code everything myself, no libraries, no LLMs
+Currently I'm working on version 1.0 of Diesis, an open source C++ library for 31EDO operations. Microtonal music has been picking up traction in recent years, both by artists and music theorists. My goal is to create a versatile library that can support both plugin devs and researchers. Below is a list of features I'm implementing:
+
+- Audio thread safe operations for use in real-time systems
+- Usable with any division of the octave (with a focus on 31EDO in early versions)
+- Basic set theory operations: transposition, inversion, modeOf, hardness, comparison, subset, etc.
+- Built-in list of scales and chords, easily expandable as research deepens
+- Graph theory representation of chord relationships, allowing for transformation based harmonic models
+- .scl and .kbm file compatibility

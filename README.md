@@ -14,7 +14,7 @@ Youtube: [youtube.com/@AyazEarley](https://www.youtube.com/@AyazEarley)
 
 ### What I'm currently working on
 
-Currently I'm working on version 1.0 of Diesis, an open source C++ library for 31EDO operations. Microtonal music has been picking up traction in recent years, both by artists and music theorists. My goal is to create a versatile library that can support both plugin devs and researchers. Below is a list of features I'm implementing:
+Currently I'm working on version 1.0 of 'Diesis', an open source C++ library for 31EDO operations. Microtonal music has been picking up traction in recent years, both by artists and music theorists. My goal is to create a versatile library that can support both plugin devs and researchers. Below is a list of features I'm implementing:
 
 - Audio thread safe operations for use in real-time systems
 - Usable with any division of the octave (with a focus on 31EDO in early versions)
